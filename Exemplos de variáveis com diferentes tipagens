@@ -1,0 +1,10 @@
+// Exemplos de variáveis com diferentes tipagens
+inteiro, ponto_flutuante, caractere = 10, 10.5, 'A'
+string = "Olá, Mundo!"
+booleano = True
+
+//Solicitação de dados ao usuário
+nome_usuario = input("Por favor, digite seu nome: ")
+
+//Imprimir mensagem personalizada
+print(f"Olá, {nome_usuario}! Bem-vindo ao nosso programa de exemplo de variáveis.")
